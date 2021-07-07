@@ -1,0 +1,25 @@
+.otsikko{
+    display: grid;
+    place-items: center;
+    padding: 20px;
+}
+
+body{
+    background-color: rgb(82, 80, 240);
+}
+
+#nappi{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    background-color: white;
+}
+
+.palaute_text, .points{
+    padding: 20px;
+}
+
+.start{
+    padding-right: 10px;
+    padding-left: 10px;
+}
